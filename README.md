@@ -1,2 +1,2 @@
-# Suniy_intelekt
-ushbu repozitorida Perseptron algoritmi joylangan
+# Numpy darslari
+ushbu repozitorida numpy ni o'rganish jarayonidagi yozgan kodlarimni joylab boraman
